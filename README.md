@@ -2,7 +2,7 @@
 
 `tweet.ipynb` contains a solution to the Kaggle Competition: [Natural Language Processing with Disaster Tweets](https://www.kaggle.com/competitions/nlp-getting-started/overview) - Predict which Tweets are about real disasters and which ones are not.
 
-The best trained model is saved as `best_model.pth`, and the test set predictions are available in `submission.csv`.
+The best trained model is saved as `best_model.pth`, and the test set predictions are available in `submission.csv`. Required libraries are specified in `requirements.txt`.
 
 ## Competition Description (from Kaggle)
 
